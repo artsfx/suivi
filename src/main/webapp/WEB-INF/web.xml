@@ -86,7 +86,7 @@
         <url-pattern>/Inscription</url-pattern>
     </servlet-mapping>
     <welcome-file-list>
-        <welcome-file>/index.jsp</welcome-file>
+        <welcome-file>/WEB-INF/pages/index.jsp</welcome-file>
     </welcome-file-list>
     <jsp-config>
         <jsp-property-group>
